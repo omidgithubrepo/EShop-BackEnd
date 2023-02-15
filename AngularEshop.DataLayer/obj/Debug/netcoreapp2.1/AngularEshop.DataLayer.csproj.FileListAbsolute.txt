@@ -1,0 +1,9 @@
+E:\Course\Recording\Angular9\back-end\AngularEshop\AngularEshop.DataLayer\bin\Debug\netcoreapp2.1\AngularEshop.DataLayer.deps.json
+E:\Course\Recording\Angular9\back-end\AngularEshop\AngularEshop.DataLayer\bin\Debug\netcoreapp2.1\AngularEshop.DataLayer.dll
+E:\Course\Recording\Angular9\back-end\AngularEshop\AngularEshop.DataLayer\bin\Debug\netcoreapp2.1\AngularEshop.DataLayer.pdb
+E:\Course\Recording\Angular9\back-end\AngularEshop\AngularEshop.DataLayer\obj\Debug\netcoreapp2.1\AngularEshop.DataLayer.csprojAssemblyReference.cache
+E:\Course\Recording\Angular9\back-end\AngularEshop\AngularEshop.DataLayer\obj\Debug\netcoreapp2.1\AngularEshop.DataLayer.AssemblyInfoInputs.cache
+E:\Course\Recording\Angular9\back-end\AngularEshop\AngularEshop.DataLayer\obj\Debug\netcoreapp2.1\AngularEshop.DataLayer.AssemblyInfo.cs
+E:\Course\Recording\Angular9\back-end\AngularEshop\AngularEshop.DataLayer\obj\Debug\netcoreapp2.1\AngularEshop.DataLayer.csproj.CoreCompileInputs.cache
+E:\Course\Recording\Angular9\back-end\AngularEshop\AngularEshop.DataLayer\obj\Debug\netcoreapp2.1\AngularEshop.DataLayer.dll
+E:\Course\Recording\Angular9\back-end\AngularEshop\AngularEshop.DataLayer\obj\Debug\netcoreapp2.1\AngularEshop.DataLayer.pdb

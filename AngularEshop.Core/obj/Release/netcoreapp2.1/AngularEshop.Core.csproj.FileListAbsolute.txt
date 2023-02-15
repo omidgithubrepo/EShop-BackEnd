@@ -1,0 +1,12 @@
+D:\Archive\Record\angular\back-end\AngularEshop\AngularEshop.Core\bin\Release\netcoreapp2.1\AngularEshop.Core.deps.json
+D:\Archive\Record\angular\back-end\AngularEshop\AngularEshop.Core\bin\Release\netcoreapp2.1\AngularEshop.Core.dll
+D:\Archive\Record\angular\back-end\AngularEshop\AngularEshop.Core\bin\Release\netcoreapp2.1\AngularEshop.Core.pdb
+D:\Archive\Record\angular\back-end\AngularEshop\AngularEshop.Core\bin\Release\netcoreapp2.1\AngularEshop.DataLayer.dll
+D:\Archive\Record\angular\back-end\AngularEshop\AngularEshop.Core\bin\Release\netcoreapp2.1\AngularEshop.DataLayer.pdb
+D:\Archive\Record\angular\back-end\AngularEshop\AngularEshop.Core\obj\Release\netcoreapp2.1\AngularEshop.Core.csprojAssemblyReference.cache
+D:\Archive\Record\angular\back-end\AngularEshop\AngularEshop.Core\obj\Release\netcoreapp2.1\AngularEshop.Core.AssemblyInfoInputs.cache
+D:\Archive\Record\angular\back-end\AngularEshop\AngularEshop.Core\obj\Release\netcoreapp2.1\AngularEshop.Core.AssemblyInfo.cs
+D:\Archive\Record\angular\back-end\AngularEshop\AngularEshop.Core\obj\Release\netcoreapp2.1\AngularEshop.Core.csproj.CoreCompileInputs.cache
+D:\Archive\Record\angular\back-end\AngularEshop\AngularEshop.Core\obj\Release\netcoreapp2.1\AngularEshop.Core.csproj.CopyComplete
+D:\Archive\Record\angular\back-end\AngularEshop\AngularEshop.Core\obj\Release\netcoreapp2.1\AngularEshop.Core.dll
+D:\Archive\Record\angular\back-end\AngularEshop\AngularEshop.Core\obj\Release\netcoreapp2.1\AngularEshop.Core.pdb
